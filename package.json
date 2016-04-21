@@ -1,0 +1,17 @@
+{
+  "name": "v1",
+  "version": "0.0.0",
+  "description": "testing this out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "json2csv": "^3.3.0",
+    "request": "^2.72.0",
+    "striptags": "^2.1.1",
+    "v1sdk": "^1.0.4"
+  }
+}
