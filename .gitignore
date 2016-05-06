@@ -1,3 +1,4 @@
 tmp*
 *.nex
 node_modules/
+query_scratch
